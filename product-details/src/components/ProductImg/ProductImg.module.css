@@ -1,0 +1,8 @@
+.productImg{
+    width: 50%;
+  }
+  
+  .productImg > img {
+    width: 100%;
+  
+  }
